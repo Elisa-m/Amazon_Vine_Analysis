@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Purpose
-The purpose of this analysis was to determine if Vine reviews presented a positivity bias. To measure such bias, this analysis compared the percentage of Vine and non-Vine 5-star reviews from the Toys US Reviews Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz. 
+The purpose of this analysis was to determine if Vine reviews presented a positivity bias. To measure such bias, this analysis compared the percentage of Vine and non-Vine 5-star reviews from the Amazon Toys US Reviews Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz. 
 
 ## Results
 Results are as follows: 
